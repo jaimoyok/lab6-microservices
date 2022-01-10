@@ -52,4 +52,4 @@ by a PR so other fellow can try it.
 
 | NIA | User name | Repo | Improvement | Score |
 |-----|-----------|------|-------------|-------|
-|     |           |      |             |       |
+| 779057 | Jaime Yoldi Vigueras | [report](https://github.com/jaimoyok/lab6-microservices/blob/test/report.md)     |             |       |
